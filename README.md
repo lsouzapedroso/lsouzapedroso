@@ -21,13 +21,13 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:lsouzapedroso@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/lsouzapedroso/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://lsouzapedroso.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -66,11 +66,5 @@
 <hr/>
 
 <br/>
-
-<div align="center">
-<a href="https://ko-fi.com/your-kofi-link" target="_blank">
-    <img height="64" style="border:0px;height:64px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" border="0" alt="Buy Me a Coffee at ko-fi.com" />
-</a>
-</div>
 
 <br/>
