@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Kafka, Supabase, and AWS**
 
-💬 Ask me about **React, TypeScript, Kotlin, or anything [here](https://github.com/lsouzapedroso/lsouzapedroso/issues)**
+💬 Ask me about **PHP, Laravel, Docker or anything [here](https://github.com/lsouzapedroso/lsouzapedroso/issues)**
 
 ⚡ Fun fact **I find cleaning my PC both relaxing and therapeutic!**
 
