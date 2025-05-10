@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **React-based UI components and backend systems with Kotlin and Spring Boot**
+ 🔭 I’m currently working on **React-based UI components and backend systems with PHP/Laravel**
  
  🌱 I’m currently learning **Kafka, Supabase, and AWS**
 
