@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **React-based UI components and backend systems with PHP/Laravel**
  
- 🌱 I’m currently learning **Kafka, Supabase, and AWS**
+ 🌱 I’m currently learning **Kafka, and AWS**
 
 💬 Ask me about **PHP, Laravel, Docker or anything [here](https://github.com/lsouzapedroso/lsouzapedroso/issues)**
 
